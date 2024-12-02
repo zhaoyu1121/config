@@ -1,4 +1,4 @@
 server:
-  port: 4000
+  port: 5000
 config:
   message: "Hello from Spring Cloud Config Server! 1"
